@@ -1,0 +1,6 @@
+
+text_generation_gpt/
+├── generate_text_gpt2.py           # Python script to run from IDLE or terminal
+├── README.md                       # Documentation and instructions
+
+---
